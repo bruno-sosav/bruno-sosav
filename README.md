@@ -37,7 +37,7 @@ Construyo sistemas a medida para negocios reales: turnos, pagos, e-commerce y pa
 <br>
 
 - Tecnicatura Superior en Desarrollo de Software, Instituto IDRA (en curso)
-- **[Sistema de biblioteca](https://github.com/bruno-sosav/Final-Libros-2)**: C# / Windows Forms con patrones de diseño.
+- **[Sistema de biblioteca](https://github.com/bruno-sosav/Final-Libros-2)**: C# - Patrones de diseño.
 
 </details>
 
