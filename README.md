@@ -1,19 +1,50 @@
-## Bruno Sosa Villamón
+### Bruno Sosa Villamón
 
-**Desarrollador Full-Stack freelance — Backend & Datos** · Mar del Plata, Argentina · Remoto
+Desarrollador Full-Stack freelance — Backend & Datos<br>
+Mar del Plata, Argentina · Remoto
 
-Desarrollo sistemas a medida para negocios: gestión de turnos, pagos online, e-commerce y paneles administrativos. Me ocupo de todo el ciclo, desde relevar el proceso con el cliente hasta dejar el sistema en producción. También soy co-fundador de Stratus Industries, donde desarrollamos software para negocios.
+Construyo sistemas a medida para negocios reales: turnos, pagos, e-commerce y paneles de gestión. Me ocupo de todo el proceso, desde relevarlo con el cliente hasta dejarlo en producción. También soy co-fundador de Stratus Industries.
 
-### Proyectos
+<br>
 
-- **Stratus Cuts**: SaaS de gestión para estéticas y barberías, con turnos, clientes, empleados, caja, recordatorios y cobro de señas con Mercado Pago. Está en producción para 5 negocios, entre ellos Blue Moon.
-- **Telar Dankuk**: e-commerce completo con tienda, panel admin, pagos con Mercado Pago y envíos con Andreani. Hoy es el canal por el que pasan todas las ventas digitales del cliente.
-- **Life OS**: plataforma personal de productividad con hábitos, entrenamiento, finanzas y dashboards de progreso. Está hecha en React y estoy migrando el backend a Python.
+**Proyecto destacado**
 
-### Stack
+**Stratus Cuts**: sistema de gestión para estéticas y barberías, con turnos online, cobro de señas con Mercado Pago, caja, empleados y recordatorios. Hoy está en producción para 5 negocios.
 
-`Python` `FastAPI` `C#` `.NET` `JavaScript` `React` `Node.js` `MySQL` `SQLite` `Docker` `Linux` `Mercado Pago API` `Andreani API`
+<br>
 
-### Contacto
+<details>
+<summary><b>Sistemas para clientes</b></summary>
+<br>
 
-[Portfolio](https://portafolio-bruno.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/bruno-sosa-villam%C3%B3n-5a7308359/) · bsosavillamon@gmail.com
+- **Stratus Cuts**: SaaS multi-negocio (FastAPI · React · MySQL · Docker). Incluye el frontend a medida de Blue Moon.
+- **Telar Dankuk**: e-commerce completo con tienda, panel admin, Mercado Pago y envíos con Andreani. Hoy es el canal de todas las ventas digitales del cliente.
+- **[Inas Pastelería](https://github.com/bruno-sosav/inas-web)**: sitio web para una pastelería.
+
+</details>
+
+<details>
+<summary><b>Proyectos personales</b></summary>
+<br>
+
+- **[Life OS](https://github.com/bruno-sosav/Life-OS)**: plataforma de productividad con hábitos, entrenamiento, finanzas y dashboards de progreso. Estoy migrando el backend a Python.
+- **[Portafolio](https://github.com/bruno-sosav/Portafolio-Bruno)**: mi web personal ([ver online](https://portafolio-bruno.vercel.app/)).
+
+</details>
+
+<details>
+<summary><b>Formación</b></summary>
+<br>
+
+- Tecnicatura Superior en Desarrollo de Software, Instituto IDRA (en curso)
+- **[Sistema de biblioteca](https://github.com/bruno-sosav/Final-Libros-2)**: C# / Windows Forms con patrones de diseño.
+
+</details>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,cs,dotnet,js,react,nodejs,mysql,sqlite,docker,linux,git&theme=dark&perline=12" height="36" alt="stack" />
+
+<br><br>
+
+[Portafolio](https://portafolio-bruno.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/bruno-sosa-villam%C3%B3n-5a7308359/) · bsosavillamon@gmail.com
