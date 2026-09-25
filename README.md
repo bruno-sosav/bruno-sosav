@@ -17,8 +17,9 @@ Construyo sistemas a medida para negocios reales: turnos, pagos, e-commerce y pa
 <summary><b>Sistemas para clientes</b></summary>
 <br>
 
-- **Stratus Cuts**: SaaS multi-negocio (FastAPI · React · MySQL · Docker). Incluye el frontend a medida de Blue Moon.
-- **Telar Dankuk**: e-commerce completo con tienda, panel admin, Mercado Pago y envíos con Andreani. Hoy es el canal de todas las ventas digitales del cliente.
+- **Stratus Cuts**: SaaS multi-negocio de gestión y reservas (FastAPI · React · MySQL · Docker).
+- **Blue Moon**: sistema de reservas y gestión para un centro de estética, construido sobre el core de Stratus Cuts con frontend a medida y cobro de señas online ([ver online](https://bluemoon.stratus-cuts.com.ar/)).
+- **Telar Dankuk**: e-commerce completo con tienda, panel admin, Mercado Pago y envíos con Andreani. Hoy es el canal de todas las ventas digitales del cliente ([ver online](https://telar-dankuk-store.vercel.app/)).
 - **[Inas Pastelería](https://github.com/bruno-sosav/inas-web)**: web para una pastelería con carrito de compras y pedido directo por WhatsApp ([ver online](https://inas-pasteleria.vercel.app/)).
 
 </details>
@@ -37,7 +38,7 @@ Construyo sistemas a medida para negocios reales: turnos, pagos, e-commerce y pa
 <br>
 
 - Tecnicatura Superior en Desarrollo de Software, Instituto IDRA (en curso)
-- **[Sistema de biblioteca](https://github.com/bruno-sosav/Final-Libros-2)**: C# - Patrones de diseño.
+- **[Sistema de biblioteca](https://github.com/bruno-sosav/Final-Libros-2)**: C# / Windows Forms con patrones de diseño.
 
 </details>
 
