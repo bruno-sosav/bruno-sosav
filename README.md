@@ -19,7 +19,7 @@ Construyo sistemas a medida para negocios reales: turnos, pagos, e-commerce y pa
 
 - **Stratus Cuts**: SaaS multi-negocio (FastAPI · React · MySQL · Docker). Incluye el frontend a medida de Blue Moon.
 - **Telar Dankuk**: e-commerce completo con tienda, panel admin, Mercado Pago y envíos con Andreani. Hoy es el canal de todas las ventas digitales del cliente.
-- **[Inas Pastelería](https://github.com/bruno-sosav/inas-web)**: sitio web para una pastelería.
+- **[Inas Pastelería](https://github.com/bruno-sosav/inas-web)**: web para una pastelería con carrito de compras y pedido directo por WhatsApp ([ver online](https://inas-pasteleria.vercel.app/)).
 
 </details>
 
