@@ -5,14 +5,14 @@ Mar del Plata, Argentina · Remoto · Disponible para proyectos freelance
 
 Construyo sistemas a medida para negocios reales: turnos, pagos, e-commerce y paneles de gestión. Me ocupo de todo el proceso, desde relevar el problema con el cliente hasta dejarlo en producción.
 
-<details open>
+<details >
 <summary><b>Proyecto destacado</b></summary>
 
 **Stratus Cuts**: SaaS multi-negocio de gestión para estéticas y barberías, con turnos online, cobro de señas con Mercado Pago, caja, empleados y recordatorios (FastAPI · React · MySQL · Docker). Hoy está en producción para 5 negocios.
 
 </details>
 
-<details open>
+<details >
 <summary><b>Sistemas para clientes</b></summary>
 
 - **Blue Moon**: sistema de reservas y gestión para un centro de estética, construido sobre el core de Stratus Cuts con frontend a medida y cobro de señas online. Hoy gestiona cerca de 40 clientes por mes ([ver online](https://bluemoon.stratus-cuts.com.ar/)).
