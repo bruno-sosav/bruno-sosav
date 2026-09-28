@@ -5,24 +5,36 @@ Mar del Plata, Argentina · Remoto · Disponible para proyectos freelance
 
 Construyo sistemas a medida para negocios reales: turnos, pagos, e-commerce y paneles de gestión. Me ocupo de todo el proceso, desde relevar el problema con el cliente hasta dejarlo en producción.
 
-**Proyecto destacado**
+<details open>
+<summary><b>Proyecto destacado</b></summary>
 
 **Stratus Cuts**: SaaS multi-negocio de gestión para estéticas y barberías, con turnos online, cobro de señas con Mercado Pago, caja, empleados y recordatorios (FastAPI · React · MySQL · Docker). Hoy está en producción para 5 negocios.
 
-**Sistemas para clientes**
+</details>
+
+<details open>
+<summary><b>Sistemas para clientes</b></summary>
 
 - **Blue Moon**: sistema de reservas y gestión para un centro de estética, construido sobre el core de Stratus Cuts con frontend a medida y cobro de señas online. Hoy gestiona cerca de 40 clientes por mes ([ver online](https://bluemoon.stratus-cuts.com.ar/)).
 - **Telar Dankuk**: e-commerce completo con tienda, panel admin, Mercado Pago y envíos con Andreani. Hoy es el canal de todas las ventas digitales del cliente ([ver online](https://telar-dankuk-store.vercel.app/)).
 - **[Inas Pastelería](https://github.com/bruno-sosav/inas-web)**: web para una pastelería con carrito de compras y pedido directo por WhatsApp ([ver online](https://inas-pasteleria.vercel.app/)).
 
-**Proyectos personales**
+</details>
+
+<details>
+<summary><b>Proyectos personales</b></summary>
 
 - **[Life OS](https://github.com/bruno-sosav/Life-OS)**: plataforma de productividad con hábitos, entrenamiento, finanzas y dashboards de progreso. Estoy migrando el backend a Python.
 - **[Portafolio](https://github.com/bruno-sosav/Portafolio-Bruno)**: mi web personal ([ver online](https://portafolio-bruno.vercel.app/)).
 
-**Formación**
+</details>
+
+<details>
+<summary><b>Formación</b></summary>
 
 - Tecnicatura Superior en Desarrollo de Software, Instituto IDRA (en curso)
+
+</details>
 
 [![stack](https://skillicons.dev/icons?i=python,fastapi,cs,dotnet,js,react,nodejs,mysql,sqlite,docker,linux,git&theme=dark&perline=12)](https://skillicons.dev)
 
