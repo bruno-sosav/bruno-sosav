@@ -8,7 +8,7 @@ Construyo sistemas a medida para negocios reales: turnos, pagos, e-commerce y pa
 <details >
 <summary><b>Proyecto destacado</b></summary>
 
-**Stratus Cuts**: SaaS multi-negocio de gestión para estéticas y barberías, con turnos online, cobro de señas con Mercado Pago, caja, empleados y recordatorios (FastAPI · React · MySQL · Docker). Hoy está en producción para 5 negocios.
+**Stratus Cuts**: saas multi-negocio de gestión para barberías, con turnos online, cobro de señas con Mercado Pago, caja, empleados y recordatorios (FastAPI · React · MySQL · Docker). Hoy está en producción para 5 negocios. 
 
 </details>
 
@@ -24,7 +24,7 @@ Construyo sistemas a medida para negocios reales: turnos, pagos, e-commerce y pa
 <details>
 <summary><b>Proyectos personales</b></summary>
 
-- **[Life OS](https://github.com/bruno-sosav/Life-OS)**: plataforma de productividad con hábitos, entrenamiento, finanzas y dashboards de progreso. Estoy migrando el backend a Python.
+- **[Life OS](https://github.com/bruno-sosav/Life-OS)**: plataforma de productividad con hábitos, entrenamiento, finanzas y dashboards de progreso. Creada con MySql / Python / React.
 - **[Portafolio](https://github.com/bruno-sosav/Portafolio-Bruno)**: mi web personal ([ver online](https://portafolio-bruno.vercel.app/)).
 
 </details>
